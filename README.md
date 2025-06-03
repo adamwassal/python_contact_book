@@ -37,8 +37,6 @@ This will open the graphical interface for managing your contacts.
 ## ✨ Features
 Add, edit, and delete contacts
 
-Search contacts easily
-
 Persistent storage with SQLite
 
 Simple and clean UI using Tkinter
